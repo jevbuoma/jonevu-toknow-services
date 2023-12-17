@@ -29,4 +29,5 @@ public final class LottoConstants {
     // ... miscellaneous constants
     public final static int REG_COLUMN_SIZE = 5;
     public final static String NAME_PREFIX = "ELE-";
+    // ...
 }
