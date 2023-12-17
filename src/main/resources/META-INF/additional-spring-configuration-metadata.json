@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "executor.core.pool.size",
+    "type": "java.lang.Integer",
+    "description": "A description for 'executor.core.pool.size'"
+  },
+  {
+    "name": "executor.max.pool.size",
+    "type": "java.lang.Integer",
+    "description": "A description for 'executor.max.pool.size'"
+  },
+  {
+    "name": "executor.queue.capacity",
+    "type": "java.lang.Integer",
+    "description": "A description for 'executor.queue.capacity'"
+  },
+  {
+    "name": "executor.thread.name.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'executor.thread.name.prefix'"
+  },
+  {
+    "name": "spring.datasource.testWhileIdle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.testWhileIdle'"
+  },
+  {
+    "name": "spring.datasource.validationQuery",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.validationQuery'"
+  },
+  {
+    "name": "google.clientId",
+    "type": "java.lang.String",
+    "description": "A description for 'google.clientId'"
+  },
+  {
+    "name": "google.clientSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'google.clientSecret'"
+  },
+  {
+    "name": "google.accessTokenUri",
+    "type": "java.lang.String",
+    "description": "A description for 'google.accessTokenUri'"
+  },
+  {
+    "name": "google.userAuthorizationUri",
+    "type": "java.lang.String",
+    "description": "A description for 'google.userAuthorizationUri'"
+  }
+]}
