@@ -26,6 +26,7 @@ public final class LottoConstants {
     public final static String REG_LOTTO = "RL";
     public final static String LOTTO = "LOTTO";
 
-    
+    // ... miscellaneous constants
     public final static int REG_COLUMN_SIZE = 5;
+    public final static String NAME_PREFIX = "ELE-";
 }
